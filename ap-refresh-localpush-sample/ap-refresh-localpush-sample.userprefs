@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SampleScene.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SampleScene.cs" Line="2" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../prj/rider-client/Rider/Assets/EnishSDK/Source/Services/Factories/ServiceEditorFactory.cs" line="58" offsetX="314" offsetY="855" expression="type" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
